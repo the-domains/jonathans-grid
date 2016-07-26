@@ -1,14 +1,22 @@
-layout_spectrum: 0.3794658959377557
 typography_spectrum: 0.6710472356062382
+content_rating:
+  adult: true
 color:
   brandStrength: 0.8792646911460906
   lightness: 0.1919673215597868
   saturation: 0.20077007077634335
   rhythmicContrast: 0.7535859253257513
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+opengraph:
+  appId: JulietDeltaWhiskey
+layout_spectrum: 0.3794658959377557
+author:
+  name: Jonathan Wilson
+  email: jontheoptimist@gmail.com
+  url: ''
 name: Jonathan's Grid
