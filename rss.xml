@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Love is art.]]></title>
         <description><![CDATA[Love is art.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jonathanwilson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 18:54:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 19:01:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jonathanwilson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Facebook]]></title>
+            <description><![CDATA[<article><h1>Facebook</h1><p>https://www.facebook.com/JulietDeltaWhiskey</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32e111f8-4779-4c82-b2d3-18001b50c5e1.jpg"></article>]]></description>
+            <link>https://www.facebook.com/JulietDeltaWhiskey</link>
+            <guid isPermaLink="false">c29807a3-234e-457e-b9b4-2ae727c4d986</guid>
+            <pubDate>Tue, 26 Jul 2016 19:00:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/375cb47c-407a-4a86-8915-1d0126475cae.jpg">]]></description>
-            <link>undefined658bf38c-3019-49b4-803b-384172c19225/index.html</link>
+            <link>https://thegrid.ai/jonathanwilson/658bf38c-3019-49b4-803b-384172c19225/index.html</link>
             <guid isPermaLink="false">658bf38c-3019-49b4-803b-384172c19225</guid>
             <pubDate>Tue, 26 Jul 2016 18:54:27 GMT</pubDate>
         </item>
